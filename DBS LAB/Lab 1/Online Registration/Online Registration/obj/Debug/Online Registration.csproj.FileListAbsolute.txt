@@ -1,0 +1,12 @@
+D:\220911009\Online Registration\Online Registration\bin\Debug\Online Registration.exe.config
+D:\220911009\Lab1\Online Registration\Online Registration\bin\Debug\Online Registration.exe.config
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\bin\Debug\Online Registration.exe.config
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\bin\Debug\Online Registration.exe
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\bin\Debug\Online Registration.pdb
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online Registration.csproj.AssemblyReference.cache
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online_Registration.Form1.resources
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online_Registration.Properties.Resources.resources
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online Registration.csproj.GenerateResource.cache
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online Registration.csproj.CoreCompileInputs.cache
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online Registration.exe
+G:\DBS\220911009\Lab1\Online Registration\Online Registration\obj\Debug\Online Registration.pdb
