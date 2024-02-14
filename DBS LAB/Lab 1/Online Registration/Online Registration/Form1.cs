@@ -39,7 +39,7 @@ namespace Online_Registration
             if (radioButton1.Checked == true)
                 details += radioButton1.Text;
             else if(radioButton2.Checked== true)
-                details += radioButton1.Text;
+                details += radioButton2.Text;
             else details += radioButton3.Text;
             details += "\n";
             details += "Date Of Birth: " + dateTimePicker1.Text + "\n";
