@@ -74,3 +74,16 @@ E:\4th Sem\DBS LAB TRIAL\BankingApplication\BankingApplication\obj\Debug\Banking
 E:\4th Sem\DBS LAB TRIAL\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
 E:\4th Sem\DBS LAB TRIAL\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
 E:\4th Sem\DBS LAB TRIAL\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.AssemblyReference.cache
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Form1.resources
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Form2.resources
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Form3.resources
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Form4.resources
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Properties.Resources.resources
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.GenerateResource.cache
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+E:\SEM4-LAB-CODES\DBS LAB\Lab 2\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb

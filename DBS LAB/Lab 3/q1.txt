@@ -119,4 +119,10 @@ alter table PERSON drop AGE ;
 ----------------------------------------------------------------------------------------------
 alter table PARTICIPATED
 add check(damage_amount>9000);
+----------------------------------------------------------------------------------------
+drop table PARTICIPATED;
+drop table ACCIDENT;
+drop table OWNS;
+drop table CAR;
+drop table PERSON;
 
