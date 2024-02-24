@@ -114,11 +114,11 @@ alter table PERSON ADD AGE int;
 
 ----------------------------------------------------------------------------------------------
 
-alter table PERSON drop AGE ;
+alter table PERSON drop column AGE ;
 
 ----------------------------------------------------------------------------------------------
 alter table PARTICIPATED
-add check(damage_amount>9000);
+add constarint check(damage_amount>9000);
 ----------------------------------------------------------------------------------------
 drop table PARTICIPATED;
 drop table ACCIDENT;
